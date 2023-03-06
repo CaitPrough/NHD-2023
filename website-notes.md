@@ -14,3 +14,8 @@ element
     all 0
     positioning center
  width 100%
+ 
+ light blue - 7489BD
+ dark blue  - C8D3E7
+solid white
+solid black
